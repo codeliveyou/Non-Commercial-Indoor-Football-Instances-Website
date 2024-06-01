@@ -4,8 +4,6 @@
 % Load the input file
 :- consult('PrologFacts/Input1.pl').
 
-
-
 not_same_team(T1, T2) :- T1 #\= T2.
 
 % Constraint 2 & 3: Home team availability and away team unavailability are respected
