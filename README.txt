@@ -26,7 +26,7 @@ GENERAL INFORMATION
 
 --------------------------
 SHARING/ACCESS INFORMATION
--------------------------- 
+--------------------------
 
 
 1. Licenses/restrictions placed on the data:
